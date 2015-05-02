@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tree>
+  <Node Id="2e327c74-ae84-4c36-b0ed-492a2ccec92d">
+    <Caption><![CDATA[Planning]]></Caption>
+    <Node Id="6eb42819-8c61-4612-9608-80891979a88c">
+      <Caption><![CDATA[Today]]></Caption>
+    </Node>
+    <Node Id="3f1718b3-2f8e-4da3-8507-6171c947501c">
+      <Caption><![CDATA[In Work]]></Caption>
+    </Node>
+    <Node Id="042974a9-a5ee-4540-bfea-f698902554c8">
+      <Caption><![CDATA[Open Points]]></Caption>
+    </Node>
+  </Node>
+</Tree>

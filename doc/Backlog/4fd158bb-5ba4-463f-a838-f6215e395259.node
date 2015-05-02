@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node Id="4fd158bb-5ba4-463f-a838-f6215e395259" Created="635401686669370189" LastModified="635401686847718696">
+  <Caption><![CDATA[Vision]]></Caption>
+  <Content><![CDATA[basic idea: GUI for structured todo list in notepad!
+
+tries to solve the problem that even with hierarchical bullet lists in notepad at some point of time u need to scroll around and so loose the overview
+
+that means: 
+- no states like done/terminated/in work
+- just GUI for easier structuring
+- if s.th. is moved from backlog to planing structure it is a "move"
+  - if u dont want to do it anylonger u have to put it back
+  - delete is true delete (we just maintain a "recycle bin")   
+- we need ordering (consider: GraphViz prism migration or Chaos prototyping ==> there is an rought up-front plan which needs to be reflected in ordering of backlog items)
+
+- storage
+  - power of plain text
+  - optimal support vor DVCS (no built in history)
+    - optional we could add autocommit later on
+  ==>
+  - similar approach to offline html: one file with raw content for double click and folder with same name which contains other resources
+  - seaparate files for roots ("backlog", "planning") - idea: reduce merge issues
+  - hierarical model! central "edit" controller does not scale
+  - use datacontractserializer - needs to be human readable because of merge but user should not edit
+]]></Content>
+</Node>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node Id="c94ab9f1-6db1-4efe-86d6-781563bbd0d9" Created="635446912953600322" LastModified="635661723394479028">
+  <Caption><![CDATA[scroll while dragging items?]]></Caption>
+  <Content><![CDATA[if target node is out of viewport]]></Content>
+</Node>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node Id="55f2dcfd-68b5-4e7a-9436-9a0219f9e73b" Created="635401688155798556" LastModified="635661723306834015">
+  <Caption><![CDATA[Separate DisplayParameter from Model]]></Caption>
+  <Content><![CDATA[- move "IsExpanded" to "DisplayParameters" accessable by ID
+- potentially make it persistent per user (in users home?)
+]]></Content>
+</Node>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node Id="52e110d3-c17e-4d46-a0fd-16aedfda506e" Created="635401689570184886" LastModified="635661723335875676">
+  <Caption><![CDATA["Roots" View]]></Caption>
+  <Content><![CDATA[- visualize the roots
+- let user add/rename and delete roots
+- allow "project templates" (new project today always has "backlog" and "Planning" only)]]></Content>
+</Node>

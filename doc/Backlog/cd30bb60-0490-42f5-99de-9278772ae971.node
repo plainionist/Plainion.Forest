@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node Id="cd30bb60-0490-42f5-99de-9278772ae971" Created="635402477288078352" LastModified="635661723351156550">
+  <Caption><![CDATA[Avoid putting composer into composer ]]></Caption>
+  <Content><![CDATA[- at least dont do it directly
+- see CoreModule
+- at least hide behind ITreeModelFactory
+- check how MEF2 ExportFactory<> can help here]]></Content>
+</Node>

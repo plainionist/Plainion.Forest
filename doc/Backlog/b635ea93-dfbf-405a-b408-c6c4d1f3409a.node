@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node Id="b635ea93-dfbf-405a-b408-c6c4d1f3409a" Created="635401688739142395" LastModified="635661723282282611">
+  <Caption><![CDATA[UndoRedo]]></Caption>
+  <Content><![CDATA[add support for all actions on the tree and for the "Content" textbox]]></Content>
+</Node>

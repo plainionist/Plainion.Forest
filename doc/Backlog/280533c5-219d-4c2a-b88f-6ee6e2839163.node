@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node Id="280533c5-219d-4c2a-b88f-6ee6e2839163" Created="635401687296066853" LastModified="635661723294593315">
+  <Caption><![CDATA[Origin handling]]></Caption>
+  <Content><![CDATA[ - should we remove "dead" origins during deserialization?
+]]></Content>
+</Node>
