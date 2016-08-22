@@ -6,9 +6,12 @@ personal TODOs tracking.
 
 This is where Plainion.Forest jumps in. It allows you to structure your TODOs (or backlog items) in a 
 simple ordered tree structure. You can nest it as deeply as you like. A dedicated tree ("Planning") supports
-focusing on the next steps
+focusing on the next steps.
 
 ![](https://github.com/ronin4net/Plainion.Forest/wiki/Screenshots/Overview.png)
+
+Hint: Plainion.Forest stores all content in plain text (XML) files - one file per item - in order to 
+support distributed VCS and merging easily.
 
 # Installation
 
