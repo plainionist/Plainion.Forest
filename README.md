@@ -8,7 +8,7 @@ This is where Plainion.Forest jumps in. It allows you to structure your TODOs (o
 simple ordered tree structure. You can nest it as deeply as you like. A dedicated tree ("Planning") supports
 focusing on the next steps.
 
-![](https://github.com/ronin4net/Plainion.Forest/wiki/Screenshots/Overview.png)
+![](doc/Screenshots/Overview.png)
 
 Hint: Plainion.Forest stores all content in plain text (XML) files - one file per item - in order to 
 support distributed VCS and merging easily.
