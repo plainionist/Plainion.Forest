@@ -2,14 +2,8 @@
 <Tree>
   <Node Id="1f0f5da2-0e2c-49ff-8afe-25f674a447d8">
     <Caption><![CDATA[Backlog]]></Caption>
-    <Node Id="615130e1-4ccb-4623-a710-bdf14b7af74a">
-      <Caption><![CDATA[Render "Content" via Wiki to HTML?]]></Caption>
-    </Node>
     <Node Id="b635ea93-dfbf-405a-b408-c6c4d1f3409a">
       <Caption><![CDATA[UndoRedo]]></Caption>
-    </Node>
-    <Node Id="280533c5-219d-4c2a-b88f-6ee6e2839163">
-      <Caption><![CDATA[Origin handling]]></Caption>
     </Node>
     <Node Id="55f2dcfd-68b5-4e7a-9436-9a0219f9e73b">
       <Caption><![CDATA[Separate DisplayParameter from Model]]></Caption>

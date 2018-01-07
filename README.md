@@ -1,5 +1,5 @@
 
-Do you find your self often in tiny 2-4- or even 1-man-projects?
+Do you find your self often in tiny 2-4-man or even 1-man-projects?
 
 Of course also such small projects have its todos - things which popup in your mind but you don't want to
 address immediately. So you start a good, old todo text file and everything is good ... **unless the file 
